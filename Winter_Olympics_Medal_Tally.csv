@@ -1,0 +1,435 @@
+edition,edition_id,year,country,country_noc,gold,silver,bronze,total,Logo
+1924 Winter Olympics,29,1924,Norway,NOR,4,7,6,17,https://i.postimg.cc/PrbP2r6N/1924.png
+1924 Winter Olympics,29,1924,Finland,FIN,4,4,3,11,https://i.postimg.cc/PrbP2r6N/1924.png
+1924 Winter Olympics,29,1924,Austria,AUT,2,1,0,3,https://i.postimg.cc/PrbP2r6N/1924.png
+1924 Winter Olympics,29,1924,Switzerland,SUI,2,0,1,3,https://i.postimg.cc/PrbP2r6N/1924.png
+1924 Winter Olympics,29,1924,United States,USA,1,2,1,4,https://i.postimg.cc/PrbP2r6N/1924.png
+1924 Winter Olympics,29,1924,Great Britain,GBR,1,1,2,4,https://i.postimg.cc/PrbP2r6N/1924.png
+1924 Winter Olympics,29,1924,Sweden,SWE,1,1,0,2,https://i.postimg.cc/PrbP2r6N/1924.png
+1924 Winter Olympics,29,1924,Canada,CAN,1,0,0,1,https://i.postimg.cc/PrbP2r6N/1924.png
+1924 Winter Olympics,29,1924,Mixed team,MIX,1,0,0,1,https://i.postimg.cc/PrbP2r6N/1924.png
+1924 Winter Olympics,29,1924,France,FRA,0,0,3,3,https://i.postimg.cc/PrbP2r6N/1924.png
+1924 Winter Olympics,29,1924,Belgium,BEL,0,0,1,1,https://i.postimg.cc/PrbP2r6N/1924.png
+1928 Winter Olympics,30,1928,Norway,NOR,6,4,5,15,https://i.postimg.cc/8zFTF6pr/1928.png
+1928 Winter Olympics,30,1928,United States,USA,2,2,2,6,https://i.postimg.cc/8zFTF6pr/1928.png
+1928 Winter Olympics,30,1928,Sweden,SWE,2,2,1,5,https://i.postimg.cc/8zFTF6pr/1928.png
+1928 Winter Olympics,30,1928,Finland,FIN,2,1,1,4,https://i.postimg.cc/8zFTF6pr/1928.png
+1928 Winter Olympics,30,1928,Canada,CAN,1,0,0,1,https://i.postimg.cc/8zFTF6pr/1928.png
+1928 Winter Olympics,30,1928,France,FRA,1,0,0,1,https://i.postimg.cc/8zFTF6pr/1928.png
+1928 Winter Olympics,30,1928,Austria,AUT,0,3,1,4,https://i.postimg.cc/8zFTF6pr/1928.png
+1928 Winter Olympics,30,1928,Belgium,BEL,0,0,1,1,https://i.postimg.cc/8zFTF6pr/1928.png
+1928 Winter Olympics,30,1928,Czechoslovakia,TCH,0,0,1,1,https://i.postimg.cc/8zFTF6pr/1928.png
+1928 Winter Olympics,30,1928,Germany,GER,0,0,1,1,https://i.postimg.cc/8zFTF6pr/1928.png
+1928 Winter Olympics,30,1928,Great Britain,GBR,0,0,1,1,https://i.postimg.cc/8zFTF6pr/1928.png
+1928 Winter Olympics,30,1928,Switzerland,SUI,0,0,1,1,https://i.postimg.cc/8zFTF6pr/1928.png
+1932 Winter Olympics,31,1932,United States,USA,6,4,2,12,https://i.postimg.cc/Zn7hnTXc/1932.png
+1932 Winter Olympics,31,1932,Norway,NOR,3,4,3,10,https://i.postimg.cc/Zn7hnTXc/1932.png
+1932 Winter Olympics,31,1932,Sweden,SWE,1,2,0,3,https://i.postimg.cc/Zn7hnTXc/1932.png
+1932 Winter Olympics,31,1932,Canada,CAN,1,1,5,7,https://i.postimg.cc/Zn7hnTXc/1932.png
+1932 Winter Olympics,31,1932,Finland,FIN,1,1,1,3,https://i.postimg.cc/Zn7hnTXc/1932.png
+1932 Winter Olympics,31,1932,Austria,AUT,1,1,0,2,https://i.postimg.cc/Zn7hnTXc/1932.png
+1932 Winter Olympics,31,1932,France,FRA,1,0,0,1,https://i.postimg.cc/Zn7hnTXc/1932.png
+1932 Winter Olympics,31,1932,Switzerland,SUI,0,1,0,1,https://i.postimg.cc/Zn7hnTXc/1932.png
+1932 Winter Olympics,31,1932,Germany,GER,0,0,2,2,https://i.postimg.cc/Zn7hnTXc/1932.png
+1932 Winter Olympics,31,1932,Hungary,HUN,0,0,1,1,https://i.postimg.cc/Zn7hnTXc/1932.png
+1936 Winter Olympics,32,1936,Norway,NOR,7,5,3,15,https://i.postimg.cc/QtqDLgbv/1936.png
+1936 Winter Olympics,32,1936,Germany,GER,3,3,0,6,https://i.postimg.cc/QtqDLgbv/1936.png
+1936 Winter Olympics,32,1936,Sweden,SWE,2,2,3,7,https://i.postimg.cc/QtqDLgbv/1936.png
+1936 Winter Olympics,32,1936,Finland,FIN,1,2,3,6,https://i.postimg.cc/QtqDLgbv/1936.png
+1936 Winter Olympics,32,1936,Switzerland,SUI,1,2,0,3,https://i.postimg.cc/QtqDLgbv/1936.png
+1936 Winter Olympics,32,1936,Austria,AUT,1,1,2,4,https://i.postimg.cc/QtqDLgbv/1936.png
+1936 Winter Olympics,32,1936,Great Britain,GBR,1,1,1,3,https://i.postimg.cc/QtqDLgbv/1936.png
+1936 Winter Olympics,32,1936,United States,USA,1,0,3,4,https://i.postimg.cc/QtqDLgbv/1936.png
+1936 Winter Olympics,32,1936,Canada,CAN,0,1,0,1,https://i.postimg.cc/QtqDLgbv/1936.png
+1936 Winter Olympics,32,1936,France,FRA,0,0,1,1,https://i.postimg.cc/QtqDLgbv/1936.png
+1936 Winter Olympics,32,1936,Hungary,HUN,0,0,1,1,https://i.postimg.cc/QtqDLgbv/1936.png
+1948 Winter Olympics,33,1948,Norway,NOR,4,3,3,10,https://i.postimg.cc/g2fm32jt/1948.png
+1948 Winter Olympics,33,1948,Sweden,SWE,4,3,3,10,https://i.postimg.cc/g2fm32jt/1948.png
+1948 Winter Olympics,33,1948,Switzerland,SUI,3,4,3,10,https://i.postimg.cc/g2fm32jt/1948.png
+1948 Winter Olympics,33,1948,United States,USA,3,4,2,9,https://i.postimg.cc/g2fm32jt/1948.png
+1948 Winter Olympics,33,1948,France,FRA,2,1,2,5,https://i.postimg.cc/g2fm32jt/1948.png
+1948 Winter Olympics,33,1948,Canada,CAN,2,0,1,3,https://i.postimg.cc/g2fm32jt/1948.png
+1948 Winter Olympics,33,1948,Austria,AUT,1,3,4,8,https://i.postimg.cc/g2fm32jt/1948.png
+1948 Winter Olympics,33,1948,Finland,FIN,1,3,2,6,https://i.postimg.cc/g2fm32jt/1948.png
+1948 Winter Olympics,33,1948,Belgium,BEL,1,1,0,2,https://i.postimg.cc/g2fm32jt/1948.png
+1948 Winter Olympics,33,1948,Italy,ITA,1,0,0,1,https://i.postimg.cc/g2fm32jt/1948.png
+1948 Winter Olympics,33,1948,Czechoslovakia,TCH,0,1,0,1,https://i.postimg.cc/g2fm32jt/1948.png
+1948 Winter Olympics,33,1948,Hungary,HUN,0,1,0,1,https://i.postimg.cc/g2fm32jt/1948.png
+1948 Winter Olympics,33,1948,Great Britain,GBR,0,0,2,2,https://i.postimg.cc/g2fm32jt/1948.png
+1952 Winter Olympics,34,1952,Norway,NOR,7,3,6,16,https://i.postimg.cc/pdzxCMnW/1952.png
+1952 Winter Olympics,34,1952,United States,USA,4,6,1,11,https://i.postimg.cc/pdzxCMnW/1952.png
+1952 Winter Olympics,34,1952,Finland,FIN,3,4,2,9,https://i.postimg.cc/pdzxCMnW/1952.png
+1952 Winter Olympics,34,1952,Germany,GER,3,2,2,7,https://i.postimg.cc/pdzxCMnW/1952.png
+1952 Winter Olympics,34,1952,Austria,AUT,2,4,2,8,https://i.postimg.cc/pdzxCMnW/1952.png
+1952 Winter Olympics,34,1952,Canada,CAN,1,0,1,2,https://i.postimg.cc/pdzxCMnW/1952.png
+1952 Winter Olympics,34,1952,Italy,ITA,1,0,1,2,https://i.postimg.cc/pdzxCMnW/1952.png
+1952 Winter Olympics,34,1952,Great Britain,GBR,1,0,0,1,https://i.postimg.cc/pdzxCMnW/1952.png
+1952 Winter Olympics,34,1952,Netherlands,NED,0,3,0,3,https://i.postimg.cc/pdzxCMnW/1952.png
+1952 Winter Olympics,34,1952,Sweden,SWE,0,0,4,4,https://i.postimg.cc/pdzxCMnW/1952.png
+1952 Winter Olympics,34,1952,Switzerland,SUI,0,0,2,2,https://i.postimg.cc/pdzxCMnW/1952.png
+1952 Winter Olympics,34,1952,France,FRA,0,0,1,1,https://i.postimg.cc/pdzxCMnW/1952.png
+1952 Winter Olympics,34,1952,Hungary,HUN,0,0,1,1,https://i.postimg.cc/pdzxCMnW/1952.png
+1956 Winter Olympics,35,1956,Soviet Union,URS,7,3,6,16,https://i.postimg.cc/qRrrZD88/1956.png
+1956 Winter Olympics,35,1956,Austria,AUT,4,3,4,11,https://i.postimg.cc/qRrrZD88/1956.png
+1956 Winter Olympics,35,1956,Finland,FIN,3,3,1,7,https://i.postimg.cc/qRrrZD88/1956.png
+1956 Winter Olympics,35,1956,Switzerland,SUI,3,2,1,6,https://i.postimg.cc/qRrrZD88/1956.png
+1956 Winter Olympics,35,1956,Sweden,SWE,2,4,4,10,https://i.postimg.cc/qRrrZD88/1956.png
+1956 Winter Olympics,35,1956,United States,USA,2,3,2,7,https://i.postimg.cc/qRrrZD88/1956.png
+1956 Winter Olympics,35,1956,Norway,NOR,2,1,1,4,https://i.postimg.cc/qRrrZD88/1956.png
+1956 Winter Olympics,35,1956,Italy,ITA,1,2,0,3,https://i.postimg.cc/qRrrZD88/1956.png
+1956 Winter Olympics,35,1956,Germany,GER,1,0,1,2,https://i.postimg.cc/qRrrZD88/1956.png
+1956 Winter Olympics,35,1956,Canada,CAN,0,1,2,3,https://i.postimg.cc/qRrrZD88/1956.png
+1956 Winter Olympics,35,1956,Japan,JPN,0,1,0,1,https://i.postimg.cc/qRrrZD88/1956.png
+1956 Winter Olympics,35,1956,Hungary,HUN,0,0,1,1,https://i.postimg.cc/qRrrZD88/1956.png
+1956 Winter Olympics,35,1956,Poland,POL,0,0,1,1,https://i.postimg.cc/qRrrZD88/1956.png
+1960 Winter Olympics,36,1960,Soviet Union,URS,7,5,9,21,https://i.postimg.cc/L56pmqQ5/1960.png
+1960 Winter Olympics,36,1960,Germany,GER,4,3,1,8,https://i.postimg.cc/L56pmqQ5/1960.png
+1960 Winter Olympics,36,1960,United States,USA,3,4,3,10,https://i.postimg.cc/L56pmqQ5/1960.png
+1960 Winter Olympics,36,1960,Norway,NOR,3,3,0,6,https://i.postimg.cc/L56pmqQ5/1960.png
+1960 Winter Olympics,36,1960,Sweden,SWE,3,2,2,7,https://i.postimg.cc/L56pmqQ5/1960.png
+1960 Winter Olympics,36,1960,Finland,FIN,2,3,3,8,https://i.postimg.cc/L56pmqQ5/1960.png
+1960 Winter Olympics,36,1960,Canada,CAN,2,1,1,4,https://i.postimg.cc/L56pmqQ5/1960.png
+1960 Winter Olympics,36,1960,Switzerland,SUI,2,0,0,2,https://i.postimg.cc/L56pmqQ5/1960.png
+1960 Winter Olympics,36,1960,Austria,AUT,1,2,3,6,https://i.postimg.cc/L56pmqQ5/1960.png
+1960 Winter Olympics,36,1960,France,FRA,1,0,2,3,https://i.postimg.cc/L56pmqQ5/1960.png
+1960 Winter Olympics,36,1960,Netherlands,NED,0,1,1,2,https://i.postimg.cc/L56pmqQ5/1960.png
+1960 Winter Olympics,36,1960,Poland,POL,0,1,1,2,https://i.postimg.cc/L56pmqQ5/1960.png
+1960 Winter Olympics,36,1960,Czechoslovakia,TCH,0,1,0,1,https://i.postimg.cc/L56pmqQ5/1960.png
+1960 Winter Olympics,36,1960,Italy,ITA,0,0,1,1,https://i.postimg.cc/L56pmqQ5/1960.png
+1964 Winter Olympics,37,1964,Soviet Union,URS,11,8,6,25,https://i.postimg.cc/h4pnprhd/1964.png
+1964 Winter Olympics,37,1964,Austria,AUT,4,5,3,12,https://i.postimg.cc/h4pnprhd/1964.png
+1964 Winter Olympics,37,1964,Norway,NOR,3,6,6,15,https://i.postimg.cc/h4pnprhd/1964.png
+1964 Winter Olympics,37,1964,Finland,FIN,3,4,3,10,https://i.postimg.cc/h4pnprhd/1964.png
+1964 Winter Olympics,37,1964,France,FRA,3,4,0,7,https://i.postimg.cc/h4pnprhd/1964.png
+1964 Winter Olympics,37,1964,Germany,GER,3,3,3,9,https://i.postimg.cc/h4pnprhd/1964.png
+1964 Winter Olympics,37,1964,Sweden,SWE,3,3,1,7,https://i.postimg.cc/h4pnprhd/1964.png
+1964 Winter Olympics,37,1964,United States,USA,1,2,4,7,https://i.postimg.cc/h4pnprhd/1964.png
+1964 Winter Olympics,37,1964,Canada,CAN,1,1,1,3,https://i.postimg.cc/h4pnprhd/1964.png
+1964 Winter Olympics,37,1964,Netherlands,NED,1,1,0,2,https://i.postimg.cc/h4pnprhd/1964.png
+1964 Winter Olympics,37,1964,Great Britain,GBR,1,0,0,1,https://i.postimg.cc/h4pnprhd/1964.png
+1964 Winter Olympics,37,1964,Italy,ITA,0,1,3,4,https://i.postimg.cc/h4pnprhd/1964.png
+1964 Winter Olympics,37,1964,Democratic People's Republic of Korea,PRK,0,1,0,1,https://i.postimg.cc/h4pnprhd/1964.png
+1964 Winter Olympics,37,1964,Czechoslovakia,TCH,0,0,1,1,https://i.postimg.cc/h4pnprhd/1964.png
+1968 Winter Olympics,38,1968,Norway,NOR,6,6,2,14,https://i.postimg.cc/qMFTdvsB/1968.png
+1968 Winter Olympics,38,1968,Soviet Union,URS,5,5,3,13,https://i.postimg.cc/qMFTdvsB/1968.png
+1968 Winter Olympics,38,1968,France,FRA,4,3,2,9,https://i.postimg.cc/qMFTdvsB/1968.png
+1968 Winter Olympics,38,1968,Italy,ITA,4,0,0,4,https://i.postimg.cc/qMFTdvsB/1968.png
+1968 Winter Olympics,38,1968,Austria,AUT,3,4,4,11,https://i.postimg.cc/qMFTdvsB/1968.png
+1968 Winter Olympics,38,1968,Netherlands,NED,3,3,3,9,https://i.postimg.cc/qMFTdvsB/1968.png
+1968 Winter Olympics,38,1968,Sweden,SWE,3,2,3,8,https://i.postimg.cc/qMFTdvsB/1968.png
+1968 Winter Olympics,38,1968,West Germany,FRG,2,2,3,7,https://i.postimg.cc/qMFTdvsB/1968.png
+1968 Winter Olympics,38,1968,United States,USA,1,5,1,7,https://i.postimg.cc/qMFTdvsB/1968.png
+1968 Winter Olympics,38,1968,East Germany,GDR,1,2,2,5,https://i.postimg.cc/qMFTdvsB/1968.png
+1968 Winter Olympics,38,1968,Finland,FIN,1,2,2,5,https://i.postimg.cc/qMFTdvsB/1968.png
+1968 Winter Olympics,38,1968,Czechoslovakia,TCH,1,2,1,4,https://i.postimg.cc/qMFTdvsB/1968.png
+1968 Winter Olympics,38,1968,Canada,CAN,1,1,1,3,https://i.postimg.cc/qMFTdvsB/1968.png
+1968 Winter Olympics,38,1968,Switzerland,SUI,0,2,4,6,https://i.postimg.cc/qMFTdvsB/1968.png
+1968 Winter Olympics,38,1968,Romania,ROU,0,0,1,1,https://i.postimg.cc/qMFTdvsB/1968.png
+1972 Winter Olympics,39,1972,Soviet Union,URS,8,5,3,16,https://i.postimg.cc/QxC3PTWn/1972.png
+1972 Winter Olympics,39,1972,East Germany,GDR,4,3,7,14,https://i.postimg.cc/QxC3PTWn/1972.png
+1972 Winter Olympics,39,1972,Switzerland,SUI,4,3,3,10,https://i.postimg.cc/QxC3PTWn/1972.png
+1972 Winter Olympics,39,1972,Netherlands,NED,4,3,2,9,https://i.postimg.cc/QxC3PTWn/1972.png
+1972 Winter Olympics,39,1972,United States,USA,3,2,3,8,https://i.postimg.cc/QxC3PTWn/1972.png
+1972 Winter Olympics,39,1972,West Germany,FRG,3,1,1,5,https://i.postimg.cc/QxC3PTWn/1972.png
+1972 Winter Olympics,39,1972,Norway,NOR,2,5,5,12,https://i.postimg.cc/QxC3PTWn/1972.png
+1972 Winter Olympics,39,1972,Italy,ITA,2,2,1,5,https://i.postimg.cc/QxC3PTWn/1972.png
+1972 Winter Olympics,39,1972,Austria,AUT,1,2,2,5,https://i.postimg.cc/QxC3PTWn/1972.png
+1972 Winter Olympics,39,1972,Sweden,SWE,1,1,2,4,https://i.postimg.cc/QxC3PTWn/1972.png
+1972 Winter Olympics,39,1972,Japan,JPN,1,1,1,3,https://i.postimg.cc/QxC3PTWn/1972.png
+1972 Winter Olympics,39,1972,Czechoslovakia,TCH,1,0,2,3,https://i.postimg.cc/QxC3PTWn/1972.png
+1972 Winter Olympics,39,1972,Poland,POL,1,0,0,1,https://i.postimg.cc/QxC3PTWn/1972.png
+1972 Winter Olympics,39,1972,Spain,ESP,1,0,0,1,https://i.postimg.cc/QxC3PTWn/1972.png
+1972 Winter Olympics,39,1972,Finland,FIN,0,4,1,5,https://i.postimg.cc/QxC3PTWn/1972.png
+1972 Winter Olympics,39,1972,France,FRA,0,1,2,3,https://i.postimg.cc/QxC3PTWn/1972.png
+1972 Winter Olympics,39,1972,Canada,CAN,0,1,0,1,https://i.postimg.cc/QxC3PTWn/1972.png
+1976 Winter Olympics,40,1976,Soviet Union,URS,13,6,8,27,https://i.postimg.cc/dVTKQc62/1976.png
+1976 Winter Olympics,40,1976,East Germany,GDR,7,5,7,19,https://i.postimg.cc/dVTKQc62/1976.png
+1976 Winter Olympics,40,1976,United States,USA,3,3,4,10,https://i.postimg.cc/dVTKQc62/1976.png
+1976 Winter Olympics,40,1976,Norway,NOR,3,3,1,7,https://i.postimg.cc/dVTKQc62/1976.png
+1976 Winter Olympics,40,1976,West Germany,FRG,2,5,3,10,https://i.postimg.cc/dVTKQc62/1976.png
+1976 Winter Olympics,40,1976,Finland,FIN,2,4,1,7,https://i.postimg.cc/dVTKQc62/1976.png
+1976 Winter Olympics,40,1976,Austria,AUT,2,2,2,6,https://i.postimg.cc/dVTKQc62/1976.png
+1976 Winter Olympics,40,1976,Switzerland,SUI,1,3,1,5,https://i.postimg.cc/dVTKQc62/1976.png
+1976 Winter Olympics,40,1976,Netherlands,NED,1,2,3,6,https://i.postimg.cc/dVTKQc62/1976.png
+1976 Winter Olympics,40,1976,Italy,ITA,1,2,1,4,https://i.postimg.cc/dVTKQc62/1976.png
+1976 Winter Olympics,40,1976,Canada,CAN,1,1,1,3,https://i.postimg.cc/dVTKQc62/1976.png
+1976 Winter Olympics,40,1976,Great Britain,GBR,1,0,0,1,https://i.postimg.cc/dVTKQc62/1976.png
+1976 Winter Olympics,40,1976,Czechoslovakia,TCH,0,1,0,1,https://i.postimg.cc/dVTKQc62/1976.png
+1976 Winter Olympics,40,1976,Liechtenstein,LIE,0,0,2,2,https://i.postimg.cc/dVTKQc62/1976.png
+1976 Winter Olympics,40,1976,Sweden,SWE,0,0,2,2,https://i.postimg.cc/dVTKQc62/1976.png
+1976 Winter Olympics,40,1976,France,FRA,0,0,1,1,https://i.postimg.cc/dVTKQc62/1976.png
+1980 Winter Olympics,41,1980,Soviet Union,URS,10,6,6,22,https://i.postimg.cc/5tdW6KKZ/1980.png
+1980 Winter Olympics,41,1980,East Germany,GDR,9,7,7,23,https://i.postimg.cc/5tdW6KKZ/1980.png
+1980 Winter Olympics,41,1980,United States,USA,6,4,2,12,https://i.postimg.cc/5tdW6KKZ/1980.png
+1980 Winter Olympics,41,1980,Austria,AUT,3,2,2,7,https://i.postimg.cc/5tdW6KKZ/1980.png
+1980 Winter Olympics,41,1980,Sweden,SWE,3,0,1,4,https://i.postimg.cc/5tdW6KKZ/1980.png
+1980 Winter Olympics,41,1980,Liechtenstein,LIE,2,2,0,4,https://i.postimg.cc/5tdW6KKZ/1980.png
+1980 Winter Olympics,41,1980,Finland,FIN,1,5,3,9,https://i.postimg.cc/5tdW6KKZ/1980.png
+1980 Winter Olympics,41,1980,Norway,NOR,1,3,6,10,https://i.postimg.cc/5tdW6KKZ/1980.png
+1980 Winter Olympics,41,1980,Netherlands,NED,1,2,1,4,https://i.postimg.cc/5tdW6KKZ/1980.png
+1980 Winter Olympics,41,1980,Switzerland,SUI,1,1,3,5,https://i.postimg.cc/5tdW6KKZ/1980.png
+1980 Winter Olympics,41,1980,Great Britain,GBR,1,0,0,1,https://i.postimg.cc/5tdW6KKZ/1980.png
+1980 Winter Olympics,41,1980,West Germany,FRG,0,2,3,5,https://i.postimg.cc/5tdW6KKZ/1980.png
+1980 Winter Olympics,41,1980,Italy,ITA,0,2,0,2,https://i.postimg.cc/5tdW6KKZ/1980.png
+1980 Winter Olympics,41,1980,Canada,CAN,0,1,1,2,https://i.postimg.cc/5tdW6KKZ/1980.png
+1980 Winter Olympics,41,1980,Hungary,HUN,0,1,0,1,https://i.postimg.cc/5tdW6KKZ/1980.png
+1980 Winter Olympics,41,1980,Japan,JPN,0,1,0,1,https://i.postimg.cc/5tdW6KKZ/1980.png
+1980 Winter Olympics,41,1980,Bulgaria,BUL,0,0,1,1,https://i.postimg.cc/5tdW6KKZ/1980.png
+1980 Winter Olympics,41,1980,Czechoslovakia,TCH,0,0,1,1,https://i.postimg.cc/5tdW6KKZ/1980.png
+1980 Winter Olympics,41,1980,France,FRA,0,0,1,1,https://i.postimg.cc/5tdW6KKZ/1980.png
+1984 Winter Olympics,42,1984,East Germany,GDR,9,9,6,24,https://i.postimg.cc/QMQG5gRV/1984.png
+1984 Winter Olympics,42,1984,Soviet Union,URS,6,10,9,25,https://i.postimg.cc/QMQG5gRV/1984.png
+1984 Winter Olympics,42,1984,United States,USA,4,4,0,8,https://i.postimg.cc/QMQG5gRV/1984.png
+1984 Winter Olympics,42,1984,Finland,FIN,4,3,6,13,https://i.postimg.cc/QMQG5gRV/1984.png
+1984 Winter Olympics,42,1984,Sweden,SWE,4,2,2,8,https://i.postimg.cc/QMQG5gRV/1984.png
+1984 Winter Olympics,42,1984,Norway,NOR,3,2,4,9,https://i.postimg.cc/QMQG5gRV/1984.png
+1984 Winter Olympics,42,1984,Switzerland,SUI,2,2,1,5,https://i.postimg.cc/QMQG5gRV/1984.png
+1984 Winter Olympics,42,1984,Canada,CAN,2,1,1,4,https://i.postimg.cc/QMQG5gRV/1984.png
+1984 Winter Olympics,42,1984,West Germany,FRG,2,1,1,4,https://i.postimg.cc/QMQG5gRV/1984.png
+1984 Winter Olympics,42,1984,Italy,ITA,2,0,0,2,https://i.postimg.cc/QMQG5gRV/1984.png
+1984 Winter Olympics,42,1984,Great Britain,GBR,1,0,0,1,https://i.postimg.cc/QMQG5gRV/1984.png
+1984 Winter Olympics,42,1984,Czechoslovakia,TCH,0,2,4,6,https://i.postimg.cc/QMQG5gRV/1984.png
+1984 Winter Olympics,42,1984,France,FRA,0,1,2,3,https://i.postimg.cc/QMQG5gRV/1984.png
+1984 Winter Olympics,42,1984,Japan,JPN,0,1,0,1,https://i.postimg.cc/QMQG5gRV/1984.png
+1984 Winter Olympics,42,1984,Yugoslavia,YUG,0,1,0,1,https://i.postimg.cc/QMQG5gRV/1984.png
+1984 Winter Olympics,42,1984,Liechtenstein,LIE,0,0,2,2,https://i.postimg.cc/QMQG5gRV/1984.png
+1984 Winter Olympics,42,1984,Austria,AUT,0,0,1,1,https://i.postimg.cc/QMQG5gRV/1984.png
+1988 Winter Olympics,43,1988,Soviet Union,URS,11,9,9,29,https://i.postimg.cc/wv9Kkyp2/1988.png
+1988 Winter Olympics,43,1988,East Germany,GDR,9,10,6,25,https://i.postimg.cc/wv9Kkyp2/1988.png
+1988 Winter Olympics,43,1988,Switzerland,SUI,5,5,5,15,https://i.postimg.cc/wv9Kkyp2/1988.png
+1988 Winter Olympics,43,1988,Finland,FIN,4,1,2,7,https://i.postimg.cc/wv9Kkyp2/1988.png
+1988 Winter Olympics,43,1988,Sweden,SWE,4,0,2,6,https://i.postimg.cc/wv9Kkyp2/1988.png
+1988 Winter Olympics,43,1988,Austria,AUT,3,5,2,10,https://i.postimg.cc/wv9Kkyp2/1988.png
+1988 Winter Olympics,43,1988,Netherlands,NED,3,2,2,7,https://i.postimg.cc/wv9Kkyp2/1988.png
+1988 Winter Olympics,43,1988,West Germany,FRG,2,4,2,8,https://i.postimg.cc/wv9Kkyp2/1988.png
+1988 Winter Olympics,43,1988,United States,USA,2,1,3,6,https://i.postimg.cc/wv9Kkyp2/1988.png
+1988 Winter Olympics,43,1988,Italy,ITA,2,1,2,5,https://i.postimg.cc/wv9Kkyp2/1988.png
+1988 Winter Olympics,43,1988,France,FRA,1,0,1,2,https://i.postimg.cc/wv9Kkyp2/1988.png
+1988 Winter Olympics,43,1988,Norway,NOR,0,3,2,5,https://i.postimg.cc/wv9Kkyp2/1988.png
+1988 Winter Olympics,43,1988,Canada,CAN,0,2,3,5,https://i.postimg.cc/wv9Kkyp2/1988.png
+1988 Winter Olympics,43,1988,Yugoslavia,YUG,0,2,1,3,https://i.postimg.cc/wv9Kkyp2/1988.png
+1988 Winter Olympics,43,1988,Czechoslovakia,TCH,0,1,2,3,https://i.postimg.cc/wv9Kkyp2/1988.png
+1988 Winter Olympics,43,1988,Japan,JPN,0,0,1,1,https://i.postimg.cc/wv9Kkyp2/1988.png
+1988 Winter Olympics,43,1988,Liechtenstein,LIE,0,0,1,1,https://i.postimg.cc/wv9Kkyp2/1988.png
+1992 Winter Olympics,44,1992,Germany,GER,10,10,6,26,https://i.postimg.cc/G2KWgL3C/1992.png
+1992 Winter Olympics,44,1992,Unified Team,EUN,9,6,8,23,https://i.postimg.cc/G2KWgL3C/1992.png
+1992 Winter Olympics,44,1992,Norway,NOR,9,6,5,20,https://i.postimg.cc/G2KWgL3C/1992.png
+1992 Winter Olympics,44,1992,Austria,AUT,6,7,8,21,https://i.postimg.cc/G2KWgL3C/1992.png
+1992 Winter Olympics,44,1992,United States,USA,5,4,2,11,https://i.postimg.cc/G2KWgL3C/1992.png
+1992 Winter Olympics,44,1992,Italy,ITA,4,6,4,14,https://i.postimg.cc/G2KWgL3C/1992.png
+1992 Winter Olympics,44,1992,France,FRA,3,5,1,9,https://i.postimg.cc/G2KWgL3C/1992.png
+1992 Winter Olympics,44,1992,Finland,FIN,3,1,3,7,https://i.postimg.cc/G2KWgL3C/1992.png
+1992 Winter Olympics,44,1992,Canada,CAN,2,3,2,7,https://i.postimg.cc/G2KWgL3C/1992.png
+1992 Winter Olympics,44,1992,Republic of Korea,KOR,2,1,1,4,https://i.postimg.cc/G2KWgL3C/1992.png
+1992 Winter Olympics,44,1992,Japan,JPN,1,2,4,7,https://i.postimg.cc/G2KWgL3C/1992.png
+1992 Winter Olympics,44,1992,Netherlands,NED,1,1,2,4,https://i.postimg.cc/G2KWgL3C/1992.png
+1992 Winter Olympics,44,1992,Sweden,SWE,1,0,3,4,https://i.postimg.cc/G2KWgL3C/1992.png
+1992 Winter Olympics,44,1992,Switzerland,SUI,1,0,2,3,https://i.postimg.cc/G2KWgL3C/1992.png
+1992 Winter Olympics,44,1992,People's Republic of China,CHN,0,3,0,3,https://i.postimg.cc/G2KWgL3C/1992.png
+1992 Winter Olympics,44,1992,Luxembourg,LUX,0,2,0,2,https://i.postimg.cc/G2KWgL3C/1992.png
+1992 Winter Olympics,44,1992,New Zealand,NZL,0,1,0,1,https://i.postimg.cc/G2KWgL3C/1992.png
+1992 Winter Olympics,44,1992,Czechoslovakia,TCH,0,0,3,3,https://i.postimg.cc/G2KWgL3C/1992.png
+1992 Winter Olympics,44,1992,Democratic People's Republic of Korea,PRK,0,0,1,1,https://i.postimg.cc/G2KWgL3C/1992.png
+1992 Winter Olympics,44,1992,Spain,ESP,0,0,1,1,https://i.postimg.cc/G2KWgL3C/1992.png
+1994 Winter Olympics,45,1994,Russian Federation,RUS,11,8,4,23,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,Norway,NOR,10,11,5,26,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,Germany,GER,9,7,8,24,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,Italy,ITA,7,5,8,20,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,United States,USA,6,5,2,13,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,Republic of Korea,KOR,4,1,1,6,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,Canada,CAN,3,6,4,13,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,Switzerland,SUI,3,4,2,9,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,Austria,AUT,2,3,4,9,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,Sweden,SWE,2,1,0,3,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,Japan,JPN,1,2,2,5,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,Kazakhstan,KAZ,1,2,0,3,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,Ukraine,UKR,1,0,1,2,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,Uzbekistan,UZB,1,0,0,1,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,Belarus,BLR,0,2,0,2,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,Finland,FIN,0,1,5,6,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,France,FRA,0,1,4,5,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,Netherlands,NED,0,1,3,4,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,People's Republic of China,CHN,0,1,2,3,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,Slovenia,SLO,0,0,3,3,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,Great Britain,GBR,0,0,2,2,https://i.postimg.cc/8cCqq2sr/1994.png
+1994 Winter Olympics,45,1994,Australia,AUS,0,0,1,1,https://i.postimg.cc/8cCqq2sr/1994.png
+1998 Winter Olympics,46,1998,Germany,GER,12,9,8,29,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,Norway,NOR,10,10,5,25,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,Russian Federation,RUS,9,6,3,18,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,Canada,CAN,6,5,4,15,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,United States,USA,6,3,4,13,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,Netherlands,NED,5,4,2,11,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,Japan,JPN,5,1,4,10,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,Austria,AUT,3,5,9,17,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,Republic of Korea,KOR,3,1,2,6,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,Italy,ITA,2,6,2,10,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,Finland,FIN,2,4,6,12,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,Switzerland,SUI,2,2,3,7,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,France,FRA,2,1,5,8,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,Czechia,CZE,1,1,1,3,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,Bulgaria,BUL,1,0,0,1,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,People's Republic of China,CHN,0,6,2,8,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,Sweden,SWE,0,2,1,3,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,Denmark,DEN,0,1,0,1,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,Ukraine,UKR,0,1,0,1,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,Belarus,BLR,0,0,2,2,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,Kazakhstan,KAZ,0,0,2,2,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,Australia,AUS,0,0,1,1,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,Belgium,BEL,0,0,1,1,https://i.postimg.cc/VvH31KbZ/1998.png
+1998 Winter Olympics,46,1998,Great Britain,GBR,0,0,1,1,https://i.postimg.cc/VvH31KbZ/1998.png
+2002 Winter Olympics,47,2002,Norway,NOR,13,5,7,25,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,Germany,GER,12,16,8,36,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,United States,USA,10,13,11,34,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,Canada,CAN,7,3,7,17,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,Russian Federation,RUS,5,4,4,13,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,France,FRA,4,5,2,11,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,Italy,ITA,4,4,5,13,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,Finland,FIN,4,2,1,7,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,Netherlands,NED,3,5,0,8,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,Austria,AUT,3,4,10,17,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,Switzerland,SUI,3,2,6,11,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,Croatia,CRO,3,1,0,4,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,People's Republic of China,CHN,2,2,4,8,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,Republic of Korea,KOR,2,2,0,4,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,Australia,AUS,2,0,0,2,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,Czechia,CZE,1,2,0,3,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,Estonia,EST,1,1,1,3,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,Great Britain,GBR,1,0,1,2,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,Sweden,SWE,0,2,5,7,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,Bulgaria,BUL,0,1,2,3,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,Japan,JPN,0,1,1,2,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,Poland,POL,0,1,1,2,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,Belarus,BLR,0,0,1,1,https://i.postimg.cc/44LCzxFv/2002.png
+2002 Winter Olympics,47,2002,Slovenia,SLO,0,0,1,1,https://i.postimg.cc/44LCzxFv/2002.png
+2006 Winter Olympics,49,2006,Germany,GER,11,12,6,29,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,United States,USA,9,9,7,25,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Austria,AUT,9,7,7,23,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Russian Federation,RUS,8,6,8,22,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Canada,CAN,7,10,7,24,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Sweden,SWE,7,2,5,14,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Republic of Korea,KOR,6,3,2,11,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Switzerland,SUI,5,4,5,14,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Italy,ITA,5,0,6,11,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,France,FRA,3,2,4,9,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Netherlands,NED,3,2,4,9,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Estonia,EST,3,0,0,3,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Norway,NOR,2,8,9,19,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,People's Republic of China,CHN,2,4,5,11,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Czechia,CZE,1,2,1,4,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Croatia,CRO,1,2,0,3,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Australia,AUS,1,0,1,2,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Japan,JPN,1,0,0,1,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Finland,FIN,0,6,3,9,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Poland,POL,0,1,1,2,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Belarus,BLR,0,1,0,1,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Bulgaria,BUL,0,1,0,1,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Great Britain,GBR,0,1,0,1,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Slovakia,SVK,0,1,0,1,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Ukraine,UKR,0,0,2,2,https://i.postimg.cc/ZKCGjz1G/2006.png
+2006 Winter Olympics,49,2006,Latvia,LAT,0,0,1,1,https://i.postimg.cc/ZKCGjz1G/2006.png
+2010 Winter Olympics,57,2010,Canada,CAN,14,7,5,26,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Germany,GER,10,13,7,30,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,United States,USA,9,15,13,37,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Norway,NOR,9,8,6,23,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Republic of Korea,KOR,6,6,2,14,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Switzerland,SUI,6,0,3,9,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,People's Republic of China,CHN,5,2,4,11,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Sweden,SWE,5,2,4,11,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Austria,AUT,4,6,6,16,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Netherlands,NED,4,1,3,8,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Russian Federation,RUS,3,5,7,15,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,France,FRA,2,3,6,11,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Australia,AUS,2,1,0,3,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Czechia,CZE,2,0,4,6,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Poland,POL,1,3,2,6,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Italy,ITA,1,1,3,5,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Belarus,BLR,1,1,1,3,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Slovakia,SVK,1,1,1,3,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Great Britain,GBR,1,0,0,1,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Japan,JPN,0,3,2,5,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Croatia,CRO,0,2,1,3,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Slovenia,SLO,0,2,1,3,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Latvia,LAT,0,2,0,2,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Finland,FIN,0,1,4,5,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Estonia,EST,0,1,0,1,https://i.postimg.cc/Vkt3QBs4/2010.png
+2010 Winter Olympics,57,2010,Kazakhstan,KAZ,0,1,0,1,https://i.postimg.cc/Vkt3QBs4/2010.png
+2014 Winter Olympics,58,2014,Norway,NOR,11,6,9,26,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Russian Federation,RUS,10,10,9,29,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Canada,CAN,10,10,5,25,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,United States,USA,9,9,10,28,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Netherlands,NED,8,7,9,24,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Germany,GER,8,6,5,19,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Switzerland,SUI,7,2,2,11,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Belarus,BLR,5,0,1,6,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Austria,AUT,4,8,5,17,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,France,FRA,4,4,7,15,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Poland,POL,4,1,1,6,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,People's Republic of China,CHN,3,4,2,9,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Republic of Korea,KOR,3,3,2,8,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Sweden,SWE,2,7,6,15,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Czechia,CZE,2,4,3,9,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Slovenia,SLO,2,2,4,8,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Japan,JPN,1,4,3,8,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Finland,FIN,1,3,1,5,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Great Britain,GBR,1,1,3,5,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Latvia,LAT,1,1,3,5,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Ukraine,UKR,1,0,1,2,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Slovakia,SVK,1,0,0,1,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Italy,ITA,0,2,6,8,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Australia,AUS,0,2,1,3,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Croatia,CRO,0,1,0,1,https://i.postimg.cc/J4v92d8G/2014.png
+2014 Winter Olympics,58,2014,Kazakhstan,KAZ,0,0,1,1,https://i.postimg.cc/J4v92d8G/2014.png
+2018 Winter Olympics,60,2018,Norway,NOR,14,14,11,39,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Germany,GER,14,10,7,31,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Canada,CAN,11,8,10,29,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,United States,USA,9,8,6,23,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Netherlands,NED,8,6,6,20,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Sweden,SWE,7,6,1,14,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Republic of Korea,KOR,5,8,4,17,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Switzerland,SUI,5,6,4,15,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,France,FRA,5,4,6,15,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Austria,AUT,5,3,6,14,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Japan,JPN,4,5,4,13,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Italy,ITA,3,2,5,10,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,ROC,ROC,2,6,9,17,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Czechia,CZE,2,2,3,7,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Belarus,BLR,2,1,0,3,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,People's Republic of China,CHN,1,6,2,9,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Slovakia,SVK,1,2,0,3,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Finland,FIN,1,1,4,6,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Great Britain,GBR,1,0,4,5,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Poland,POL,1,0,1,2,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Hungary,HUN,1,0,0,1,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Ukraine,UKR,1,0,0,1,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Australia,AUS,0,2,1,3,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Slovenia,SLO,0,1,1,2,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Belgium,BEL,0,1,0,1,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,New Zealand,NZL,0,0,2,2,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Spain,ESP,0,0,2,2,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Kazakhstan,KAZ,0,0,1,1,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Latvia,LAT,0,0,1,1,https://i.postimg.cc/DzKR2J8h/2018.png
+2018 Winter Olympics,60,2018,Liechtenstein,LIE,0,0,1,1,https://i.postimg.cc/DzKR2J8h/2018.png
+2022 Winter Olympics,62,2022,Norway,NOR,16,8,13,37,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,Germany,GER,12,10,5,27,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,People's Republic of China,CHN,9,4,2,15,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,United States,USA,8,10,7,25,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,Sweden,SWE,8,5,5,18,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,Netherlands,NED,8,5,4,17,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,Austria,AUT,7,7,4,18,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,Switzerland,SUI,7,2,6,15,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,ROC,ROC,6,12,14,32,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,France,FRA,5,7,2,14,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,Canada,CAN,4,8,14,26,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,Japan,JPN,3,6,9,18,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,Italy,ITA,2,7,8,17,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,Republic of Korea,KOR,2,5,2,9,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,Slovenia,SLO,2,3,2,7,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,Finland,FIN,2,2,4,8,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,New Zealand,NZL,2,1,0,3,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,Australia,AUS,1,2,1,4,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,Great Britain,GBR,1,1,0,2,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,Hungary,HUN,1,0,2,3,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,Belgium,BEL,1,0,1,2,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,Czechia,CZE,1,0,1,2,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,Slovakia,SVK,1,0,1,2,https://i.postimg.cc/bvHWdytt/2022.png
+2022 Winter Olympics,62,2022,Belarus,BLR,0,2,0,2,https://i.postimg.cc/bvHWdytt/2022.png
